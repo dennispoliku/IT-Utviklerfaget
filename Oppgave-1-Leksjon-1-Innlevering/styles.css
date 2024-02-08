@@ -1,0 +1,7 @@
+body {
+  background:linear-gradient(to right, #ffffff, hsl(0, 0%, 48%))
+}
+
+table, th, td {
+  border:1px solid black;
+}
