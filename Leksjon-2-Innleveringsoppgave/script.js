@@ -11,4 +11,10 @@ document.addEventListener('DOMContentLoaded', function() {
       audioPlayer.play(); 
     });
   });
+
+  pauseButton.addEventListener('click', function() {
+    if (!audioPlayer.paused) {
+      audioPlayer.pause(); 
+    }
+  });
 });
