@@ -32,8 +32,7 @@ body{
   background-color: rgb(60, 124, 197);
   color: white;
   font-size: 30px;
-  border: hidden;
-  cursor: pointer;
+  margin: 2px;
 }
 
 /* Section 2 */
