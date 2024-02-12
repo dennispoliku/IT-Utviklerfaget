@@ -50,4 +50,25 @@ body{
 .navigationbar a{
   color: white;
   text-decoration: none;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* Section 3 */
+
+.pauseMusic{
+  background-color: rgb(17, 119, 110);
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.pauseMusic button{
+  color: white;
+  font-size: 50px;
+  background-color: rgb(17, 119, 110);;
+  font-weight: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-radius: 100px;
+  border: hidden;
+  cursor: pointer;
 }
