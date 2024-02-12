@@ -72,3 +72,11 @@ body{
   border: hidden;
   cursor: pointer;
 }
+
+/* Section 4 */
+
+.videos{
+  display: flex;
+  
+  justify-content: space-around;
+}
