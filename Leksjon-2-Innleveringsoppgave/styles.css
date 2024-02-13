@@ -77,8 +77,19 @@ body{
 
 .songCreators{
   display: flex;
+  color: white;
   flex-wrap: wrap;
-  background-color: rgb(162, 197, 209);
+  background-color: rgb(31, 29, 58);
   justify-content: center;
-  gap: 100px;
+  gap: 200px;
+
 }
+
+.creator p{
+  text-align: center; /* Align text to the center */
+  margin-top: 10px; /* Add some space between image and text */
+  color: white; /* Set text color */
+}
+
+/* Section 5 */
+
