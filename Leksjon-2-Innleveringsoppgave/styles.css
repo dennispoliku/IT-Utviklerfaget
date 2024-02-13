@@ -75,8 +75,10 @@ body{
 
 /* Section 4 */
 
-.videos{
+.songCreators{
   display: flex;
-  
-  justify-content: space-around;
+  flex-wrap: wrap;
+  background-color: rgb(162, 197, 209);
+  justify-content: center;
+  gap: 100px;
 }
