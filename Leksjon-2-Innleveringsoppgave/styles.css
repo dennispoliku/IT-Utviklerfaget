@@ -82,9 +82,8 @@ body{
   background-color: rgb(31, 29, 58);
   justify-content: center;
   gap: 200px;
-  padding: 22.5px;
+ 
 }
-
 
 .creator h3{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -98,3 +97,5 @@ body{
   font-size: 14px;
   text-align: center;
 }
+
+/* Section 5 */
